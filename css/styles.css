@@ -1,0 +1,27 @@
+#story{
+  display:none;
+  text-align: center;
+  background-color: #ced4da;
+  height:100%;
+}
+#story{
+  margin: 0 5% ;
+}
+#story span{
+  color:blue;
+}
+.input-group-prepend {
+  width:40%;
+}
+.input-group-text{
+  width:100%;
+}
+.submitBtn{
+  margin:5% 0;
+}
+.heading{
+  text-align: center;
+}
+#songlyrics{
+  height: 100%;
+}
